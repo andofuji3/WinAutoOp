@@ -1,0 +1,15 @@
+C:\Users\E193127\AppData\Local\Temporary Projects\AutoOperate32\obj\Release\ResolveAssemblyReference.cache
+C:\Users\E193127\AppData\Local\Temporary Projects\AutoOperate32\bin\Release\AutoOperate32.dll
+C:\Users\E193127\AppData\Local\Temporary Projects\AutoOperate32\bin\Release\AutoOperate32.pdb
+C:\Users\E193127\AppData\Local\Temporary Projects\AutoOperate32\obj\Release\AutoOperate32.dll
+C:\Users\E193127\AppData\Local\Temporary Projects\AutoOperate32\obj\Release\AutoOperate32.pdb
+C:\Users\E193127\Documents\Visual Studio 2008\Projects\AutoOperate32\AutoOperate32\bin\Release\AutoOperate32.dll
+C:\Users\E193127\Documents\Visual Studio 2008\Projects\AutoOperate32\AutoOperate32\bin\Release\AutoOperate32.pdb
+C:\Users\E193127\Documents\Visual Studio 2008\Projects\AutoOperate32\AutoOperate32\obj\Release\ResolveAssemblyReference.cache
+C:\Users\E193127\Documents\Visual Studio 2008\Projects\AutoOperate32\AutoOperate32\obj\Release\AutoOperate32.dll
+C:\Users\E193127\Documents\Visual Studio 2008\Projects\AutoOperate32\AutoOperate32\obj\Release\AutoOperate32.pdb
+C:\Users\miyagawa\Desktop\7月\７月作業記録\AutoOperate32\AutoOperate32\bin\Release\AutoOperate32.dll
+C:\Users\miyagawa\Desktop\7月\７月作業記録\AutoOperate32\AutoOperate32\bin\Release\AutoOperate32.pdb
+C:\Users\miyagawa\Desktop\7月\７月作業記録\AutoOperate32\AutoOperate32\obj\Release\AutoOperate32.dll
+C:\Users\miyagawa\Desktop\7月\７月作業記録\AutoOperate32\AutoOperate32\obj\Release\AutoOperate32.pdb
+C:\Users\miyagawa\Desktop\7月\７月作業記録\AutoOperate32\AutoOperate32\obj\Release\AutoOperate32.csprojResolveAssemblyReference.cache

@@ -1,0 +1,20 @@
+C:\Users\E193127\Documents\Visual Studio 2008\Projects\SampleAutoOperate\SampleAutoOperate\obj\Release\ResolveAssemblyReference.cache
+C:\Users\E193127\Documents\Visual Studio 2008\Projects\SampleAutoOperate\SampleAutoOperate\obj\Release\SampleAutoOperate.KeySendTool.resources
+C:\Users\E193127\Documents\Visual Studio 2008\Projects\SampleAutoOperate\SampleAutoOperate\obj\Release\SampleAutoOperate.Properties.Resources.resources
+C:\Users\E193127\Documents\Visual Studio 2008\Projects\SampleAutoOperate\SampleAutoOperate\obj\Release\SampleAutoOperate.csproj.GenerateResource.Cache
+C:\Users\E193127\Documents\Visual Studio 2008\Projects\SampleAutoOperate\SampleAutoOperate\bin\Release\SampleAutoOperate.exe
+C:\Users\E193127\Documents\Visual Studio 2008\Projects\SampleAutoOperate\SampleAutoOperate\bin\Release\SampleAutoOperate.pdb
+C:\Users\E193127\Documents\Visual Studio 2008\Projects\SampleAutoOperate\SampleAutoOperate\bin\Release\AutoOperate32.dll
+C:\Users\E193127\Documents\Visual Studio 2008\Projects\SampleAutoOperate\SampleAutoOperate\bin\Release\AutoOperate32.pdb
+C:\Users\E193127\Documents\Visual Studio 2008\Projects\SampleAutoOperate\SampleAutoOperate\obj\Release\SampleAutoOperate.exe
+C:\Users\E193127\Documents\Visual Studio 2008\Projects\SampleAutoOperate\SampleAutoOperate\obj\Release\SampleAutoOperate.pdb
+C:\Users\miyagawa\Desktop\7月\７月作業記録\SampleAutoOperate\SampleAutoOperate\obj\Release\SampleAutoOperate.exe
+C:\Users\miyagawa\Desktop\7月\７月作業記録\SampleAutoOperate\SampleAutoOperate\obj\Release\SampleAutoOperate.pdb
+C:\Users\miyagawa\Desktop\7月\７月作業記録\SampleAutoOperate\SampleAutoOperate\bin\Release\SampleAutoOperate.exe
+C:\Users\miyagawa\Desktop\7月\７月作業記録\SampleAutoOperate\SampleAutoOperate\bin\Release\SampleAutoOperate.pdb
+C:\Users\miyagawa\Desktop\7月\７月作業記録\SampleAutoOperate\SampleAutoOperate\bin\Release\AutoOperate32.dll
+C:\Users\miyagawa\Desktop\7月\７月作業記録\SampleAutoOperate\SampleAutoOperate\bin\Release\AutoOperate32.pdb
+C:\Users\miyagawa\Desktop\7月\７月作業記録\SampleAutoOperate\SampleAutoOperate\obj\Release\SampleAutoOperate.csprojResolveAssemblyReference.cache
+C:\Users\miyagawa\Desktop\7月\７月作業記録\SampleAutoOperate\SampleAutoOperate\obj\Release\SampleAutoOperate.KeySendTool.resources
+C:\Users\miyagawa\Desktop\7月\７月作業記録\SampleAutoOperate\SampleAutoOperate\obj\Release\SampleAutoOperate.Properties.Resources.resources
+C:\Users\miyagawa\Desktop\7月\７月作業記録\SampleAutoOperate\SampleAutoOperate\obj\Release\SampleAutoOperate.csproj.GenerateResource.Cache

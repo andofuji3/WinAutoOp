@@ -1,0 +1,10 @@
+C:\Users\E193127\Documents\Visual Studio 2008\Projects\SampleAutoOperate\SampleAutoOperate\bin\Debug\SampleAutoOperate.exe
+C:\Users\E193127\Documents\Visual Studio 2008\Projects\SampleAutoOperate\SampleAutoOperate\bin\Debug\SampleAutoOperate.pdb
+C:\Users\E193127\Documents\Visual Studio 2008\Projects\SampleAutoOperate\SampleAutoOperate\bin\Debug\AutoOperate32.dll
+C:\Users\E193127\Documents\Visual Studio 2008\Projects\SampleAutoOperate\SampleAutoOperate\bin\Debug\AutoOperate32.pdb
+C:\Users\E193127\Documents\Visual Studio 2008\Projects\SampleAutoOperate\SampleAutoOperate\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\E193127\Documents\Visual Studio 2008\Projects\SampleAutoOperate\SampleAutoOperate\obj\Debug\SampleAutoOperate.KeySendTool.resources
+C:\Users\E193127\Documents\Visual Studio 2008\Projects\SampleAutoOperate\SampleAutoOperate\obj\Debug\SampleAutoOperate.Properties.Resources.resources
+C:\Users\E193127\Documents\Visual Studio 2008\Projects\SampleAutoOperate\SampleAutoOperate\obj\Debug\SampleAutoOperate.csproj.GenerateResource.Cache
+C:\Users\E193127\Documents\Visual Studio 2008\Projects\SampleAutoOperate\SampleAutoOperate\obj\Debug\SampleAutoOperate.exe
+C:\Users\E193127\Documents\Visual Studio 2008\Projects\SampleAutoOperate\SampleAutoOperate\obj\Debug\SampleAutoOperate.pdb
